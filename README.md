@@ -7,6 +7,7 @@ when a record size changes. It is in a sense a document database with a key limi
 The library is packaged as an OSGi bundle.
 
 ### Release notes
+* Version 1.1.8 - 2015-07-07  Moved to Github
 * Version 1.1.7 - 2014-02-08
   * Java 7
   * Changed pom versioning mechanism.
