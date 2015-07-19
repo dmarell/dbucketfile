@@ -7,7 +7,7 @@ when a record size changes. It is in a sense a document database with a key limi
 The library is packaged as an OSGi bundle.
 
 ### Release notes
-* Version 2.1.9 - 2015-07-19
+* Version 1.1.9 - 2015-07-19
   * Changed repo URL
 * Version 1.1.8 - 2015-07-07
   * Moved to Github
