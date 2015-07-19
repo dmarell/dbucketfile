@@ -23,14 +23,14 @@ The library is packaged as an OSGi bundle.
 <repositories>
   <repository>
     <id>marell</id>
-    <url>http://marell.se/nexus/content/repositories/releases/</url>
+    <url>http://marell.se/artifactory/libs-release</url>
   </repository>
 </repositories>
 ...
 <dependency>
   <groupId>se.marell</groupId>
   <artifactId>dbucketfile</artifactId>
-  <version>1.1.7</version>
+  <version>1.1.9</version>
 </dependency>
 ```
 ### File structure
